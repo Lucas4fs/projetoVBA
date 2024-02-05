@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="imagens\capa.jpg">
+    <img src="src\imagens\capa.jpg">
     <br>
     <h1 align="center">
     🔃 INTEGRAÇÃO DO EXCEL COM BANCO DE DADOS ACCESS" 🔃
@@ -51,7 +51,7 @@ https://drive.google.com/drive/folders/1YEnjvOkJfHUwjiTS0gl9g3tTnD3oWVlI?usp=sha
 </p>
 
 <p>
-    <img src = "imagens\exibirJanelaPropiedades.png">
+    <img src = "src\imagens\exibirJanelaPropiedades.png">
 </p>
 
 <p>
@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1YEnjvOkJfHUwjiTS0gl9g3tTnD3oWVlI?usp=sha
 </p>
 
 <p>
-    <img src = "imagens\criandoEnomeandoModulo.png">
+    <img src = "src\imagens\criandoEnomeandoModulo.png">
 </p>
 
 <p>
