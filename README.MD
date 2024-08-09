@@ -2,7 +2,7 @@
     <img src="src\imagens\capa.jpg">
     <br>
     <h1 align="center">
-    🔃 INTEGRAÇÃO DO EXCEL COM BANCO DE DADOS ACCESS" 🔃
+    🔃 USANDO VBA PARA INTEGRAR EXCEL COM BANCO DE DADOS ACCESS 🔃
     </h1>
 </p>
 <br>
