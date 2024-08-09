@@ -85,7 +85,7 @@ https://drive.google.com/drive/folders/1YEnjvOkJfHUwjiTS0gl9g3tTnD3oWVlI?usp=sha
 
 - **modConectarAccess:**
 
-```vb
+```vba
 Option Explicit
 
 Function conectarAccess(conexaoBanco As ADODB.Connection)
@@ -106,7 +106,7 @@ End Function
 
 - **modExibirFormulario:**
 
-```vb
+```vba
 Sub carregar_userformcadastro()
 
 userform_cadastro.Show
